@@ -161,19 +161,19 @@ projects:
       
       - title: Knock Knock Jokes
         link: "https://github.com/CEzema/Knock-Knock-Jokes"
-        tagline: "An interactive Python program that simulates Knock-Knock Jokes"
+        tagline: "An interactive Python3 program that simulates Knock-Knock Jokes"
       
       - title: pinpoint.
         link: "https://github.com/CEzema/Pinpoint"
-        tagline: "HackHer413 Award Winning mobile application that raises awareness of local environmental issues based on geotagging."
+        tagline: "HackHer413 Award Winning mobile application, coded in Kotlin that raises awareness of local environmental issues based on geotagging."
 
       - title: Database Final Project
         link: "https://github.com/CEzema/Database-Final-Project"
-        tagline: "A database application for a fictional online retail store."
+        tagline: "A SQL based database application for a fictional online retail store."
 
       - title: Caribbean Flaavor
         link: "https://github.com/CEzema/CaribbeanFlaavor"
-        tagline: "A mobile application to meet the business needs of a local Caribbean restaurant."
+        tagline: "A Kotlin coded mobile application to meet the business needs of a local Caribbean restaurant."
 
 publications:
     title: Publications
@@ -205,7 +205,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python3
         level: 70%
 
       - name: Java
