@@ -121,9 +121,9 @@ experiences:
     - role: Summer Volunteer
       time: 2019
       company: Cayman Islands Red Cross
-      details:      
+      details: |
           - Used Google Drive services and a local database to restructure 
-            financial and administrative data.
+            financial and administrative data. 
           - Helped to catalogue and organize thrift store inventory.
 
     - role: Student Ambassador
