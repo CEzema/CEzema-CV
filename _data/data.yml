@@ -22,7 +22,7 @@ sidebar:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: cezema # Number-Username, e.g. 123456-alandoe
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -35,10 +35,10 @@ sidebar:
         level: Colloquial
 
     interests:
-      - item: Dancing
+      - item: Health & Wellness
         link:
 
-      - item: Health & Wellness
+      - item: Dancing & Performing Arts
         link:
 
       - item: Music
@@ -106,39 +106,51 @@ educationcomplete:
       details: |
         CXC and GCSE Qualifications
     
-
-
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Academic Mentor and Peer Advisor
+      time: 2019 - 2020
+      company: Clark University Office of Academic Support
       details: |
-        
+          - Helped to provide co-curricular programming and support 
+            for first year students.
+          - Actively engaged in the transition experience for a group of 15 - 20
+            students  throughout their first year.
+          - Planned and led both one on one and group sessions, acting as a social and 
+            academic resource, while facilitating discussions of varying sensitivity.
+       
+    - role: Summer Volunteer
+      time: 2019
+      company: Cayman Islands Red Cross
+      details:      
+          - Used Google Drive services and a local database to restructure 
+            financial and administrative data.
+          - Helped to catalogue and organize thrift store inventory.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Student Ambassador
+      time: 2018 - 2020
+      company: Clark University Undergraduate Admissions Office
       details: |
-        
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Served as a primary representative of university culture and values 
+            to large groups of prospective students and families by giving weekly tours and
+            co-leading information sessions and panels.
+          - Acted as a primary contact for prospective students and families, providing support
+            and solutions as needed.
+          - Conducted various office and administrative duties including answering phones 
+            and responding to emails.
+          - Managed official university Snapchat platform in accordance with weekly planning 
+            sessions, and oversaw weekly student takeovers.
+          - Sat on a financial aid committee to analyze and forecast yield percentages 
+            for upcoming recruitment and admissions cycle.
+     
+    - role: Student Office Assistant
+      time: 2017 - 2020
+      company: Clark University Language, Literature & Culture Department
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Acted as a primary contact for department and general population, answering 
+            general department and technical enquiries.
+          - Performed various office and administrative duties including answering phones,
+            responding to emails, overseeing filing system and managing office upkeep.  
 
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
