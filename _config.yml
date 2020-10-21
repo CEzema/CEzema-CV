@@ -3,7 +3,7 @@
 # Site Settings
 title: Chineme Ezema Resume
 url: 'https://cezema.github.io/CEzema-CV/' #'http://webjeda.com'
-baseurl: 'CEzema-CV' #change it according to your repository name
+baseurl: '/CEzema-CV' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
@@ -27,5 +27,3 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
-
-theme: jekyll-theme-cayman
