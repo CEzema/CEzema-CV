@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Chineme Ezema
     tagline: MSc in Information Technology candidate
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_old.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Chineme.Ezema@gmail.com
@@ -22,7 +22,7 @@ sidebar:
     twitter: '@ch1neme'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: cezema# Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -51,126 +51,52 @@ career-profile:
       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
       Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
 
-news:
-    title: News
-    intro: |
-        
-    
-    posts:
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
-
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
-        
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
-          
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-          
-        - time: July 2019
-          title: One paper accepted at ICCV19
-          
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
-        
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
-        
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
-
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Masters of Science in Information Technology
+      university: Clark University, Worcester, MA, USA
+      time: 2020 - presemt
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
+    - degree: Bachelor of Arts in Computer Science and Economics
+      university: Clark University, Worcester, MA, USA
+      time: 2016 - 2020
       details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
+    - degree: International Baccalaureate
+      university: Li Po Chun United World College of Hong Kong, Kong Kong SAR
+      time: 2014 - 2016
       details: |
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+    - degree: High School Diploma
+      university: Layman E. Scott Snr. High School, Cayman Brac, Cayman Islands
+      time: 2009 - 2015
       details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-
 
 educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Masters of Science in Information Technology 
+      university: Clark University, Worcester, MA, USA
+      time: 2020 - current
       details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
+    - degree: Bachelor of Arts in Computer Science and Economics
+      university: Clark University, Worcester, MA, USA
+      time: 2016 - 2020
       details: |
-        Unsupervised deep learning for automatic behavior analysis
+        Senior Economics capstone investigating urbanization in Caribbean islands
+        Senior Computer Science capstone developing a functional Android application in service to a local Caribbean restaurant
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
+    - degree: International Baccalaureate
+      university: Li Po Chun United World College of Hong Kong, Hong Kong SAE
+      time: 2014 - 2016
       details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+        Extended Essay in Language and Literature
 
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+    - degree: High School Diploma
+      university: Layman E. Scott Snr. High School, Cayman Brac, Cayman Islands
+      time: 2009 - 2015
       details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+        CXC and GCSE Qualifications
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
 
 
 #experiences:
@@ -251,59 +177,47 @@ publications:
       
 
     papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
+      - title: "Database Applicartion Development"
+        authors: C. Ezema, F. Owusu, B. Ramos
+        conference: Database Management & Systems Design, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      - title: "Caribbean Flaavor, Mobile Application"
+        authors: C.Ezema, F.Owusu, B. Ramos
+        conference: Mobile Software & Development, 2019
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+      - title: "Impacts of the Transatlantic Slave Trade on British Savings"
+        authors: C.Ezema, J. Kolodney, A.Mecca
+        conference: Living on the Edge, 2019
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+      - title: "arc. | Online Database Syste,"
+        authors: C.Ezema, F. Owusu, A. Rizvi, A. Singh
+        conference: Software Engineering, 2019
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      - title: "Impacts of Urbanization in Caribbean Countries "
+        authors: C. Ezema
+        conference: Urban Economics, 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 100%
+        level: 70%
 
-      - name: PyTorch
-        level: 90%
+      - name: Java
+        level: 70%
 
-      - name: Tensorflow
+      - name: C
         level: 60%
 
-      - name: Caffe
-        level: 80%
+      - name: SQL
+        level: 70%
 
-      - name: Matlab
-        level: 90%
+      - name: Tableau
+        level: 60%
 
-      - name: C/C++
-        level: 75%
+      - name: PowerBI
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
