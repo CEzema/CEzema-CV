@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Chineme Ezema
     tagline: MSc in Information Technology candidate
-    avatar: profile_old.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: dp.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Chineme.Ezema@gmail.com
@@ -19,10 +19,10 @@ sidebar:
     github: cezema
     gitlab:
     bitbucket:
-    twitter: '@ch1neme'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: cezema# Number-Username, e.g. 123456-alandoe
+    goodreads: cezema # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -47,9 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+      After a double bachelor degree at Clark University studying Economics and Computer Science, 
+      I decided to further my education and interest in the field of Information Technology with a degree in MSIT from Clark in an Accelerated Degree Program.
+      While a student at Clark I was very involved in campus and the local neighbourhood, holding a series of on campus job while simultaneosly occupying various levels of
+      leadership positions in both cultural and performance based groups on campus.
+      I am passionate about engaging in multicultural and diverse work environments given my own background as a Third Culture Kid, and ultimate goal is use the skills I've
+      gained in IT and Economics to help further the economic and social development of my communities.
 
 education:
     - degree: Masters of Science in Information Technology
@@ -82,8 +85,9 @@ educationcomplete:
       university: Clark University, Worcester, MA, USA
       time: 2016 - 2020
       details: |
-        Senior Economics capstone investigating urbanization in Caribbean islands
-        Senior Computer Science capstone developing a functional Android application in service to a local Caribbean restaurant
+        Senior Economics capstone was an investigation on the impacts of urbanization on the quality of life in major Caribbean cities.
+        
+        Senior Computer Science capstone was the development of a functional Android application as a service to a local Caribbean restaurant.
 
     - degree: International Baccalaureate
       university: Li Po Chun United World College of Hong Kong, Hong Kong SAE
@@ -177,7 +181,7 @@ publications:
       
 
     papers:
-      - title: "Database Applicartion Development"
+      - title: "Database Application Development"
         authors: C. Ezema, F. Owusu, B. Ramos
         conference: Database Management & Systems Design, 2020
         
@@ -189,7 +193,7 @@ publications:
         authors: C.Ezema, J. Kolodney, A.Mecca
         conference: Living on the Edge, 2019
 
-      - title: "arc. | Online Database Syste,"
+      - title: "arc. | Online Database System"
         authors: C.Ezema, F. Owusu, A. Rizvi, A. Singh
         conference: Software Engineering, 2019
 
