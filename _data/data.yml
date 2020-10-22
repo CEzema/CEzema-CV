@@ -158,7 +158,10 @@ projects:
     intro: 
       Past and ongoing projects accesible via my github page.
     assignments:
-      
+      - title: Language Translator
+        link: "https://github.com/CEzema/langTranslate"
+        tagline: "An interactive Python3 program that translates words between English and Spanish"
+        
       - title: Knock Knock Jokes
         link: "https://github.com/CEzema/Knock-Knock-Jokes"
         tagline: "An interactive Python3 program that simulates Knock-Knock Jokes"
