@@ -32,7 +32,7 @@ sidebar:
         level: Intermediate
 
       - idiom: Spanish
-        level: Colloquial
+        level: Intermediate
 
     interests:
       - item: Health & Wellness
@@ -158,6 +158,10 @@ projects:
     intro: 
       Past and ongoing projects accesible via my github page.
     assignments:
+      - title: Python Programming Final Project
+        link: "https://github.com/CEzema/Python-Final"
+        tagline: "An interactive Python3 program that generates visualizations of a dataset, given user input."
+        
       - title: Language Translator
         link: "https://github.com/CEzema/langTranslate"
         tagline: "An interactive Python3 program that translates words between English and Spanish"
